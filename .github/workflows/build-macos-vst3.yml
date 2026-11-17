@@ -1,0 +1,39 @@
+name: Build macOS VST3
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sculpt-lead-macos-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Universal macOS VST3
+    runs-on: macos-15
+    timeout-minutes: 40
+    steps:
+      - name: Checkout complete source and samples
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - name: Verify bundled sample bank
+        run: python3 tools/verify_factory.py
+
+      - name: Build, test and sign universal VST3
+        run: bash tools/build-macos.sh
+
+      - name: Upload VST3 archive
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
+        with:
+          name: Sculpt-Lead-macOS-VST3
+          path: dist/Sculpt-Lead-macOS-VST3.zip
+          if-no-files-found: error
+          retention-days: 30
+          compression-level: 0
