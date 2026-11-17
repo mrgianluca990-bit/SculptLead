@@ -1,0 +1,130 @@
+{
+  "version": "0.1.0",
+  "date": "2026-11-17",
+  "platform": "Linux x86_64",
+  "cpu": "AMD EPYC 7763 64-Core Processor",
+  "compiler": "GCC 14.2.0",
+  "juce": "8.0.4",
+  "sampleRate": 48000,
+  "blockSize": 256,
+  "pluginFormatBuilt": "VST3 Linux x86_64",
+  "macOSBinaryBuiltHere": false,
+  "metrics": [
+    {
+      "kind": "audio",
+      "file": "01-Reed.wav",
+      "peak_dbfs": -5.5853,
+      "rms_dbfs": -18.3739
+    },
+    {
+      "kind": "audio",
+      "file": "02-Brass.wav",
+      "peak_dbfs": -2.7231,
+      "rms_dbfs": -18.6328
+    },
+    {
+      "kind": "audio",
+      "file": "03-Analog.wav",
+      "peak_dbfs": -14.2387,
+      "rms_dbfs": -18.1429
+    },
+    {
+      "kind": "audio",
+      "file": "04-Dance.wav",
+      "peak_dbfs": -11.8966,
+      "rms_dbfs": -19.2909
+    },
+    {
+      "kind": "audio",
+      "file": "05-Digital.wav",
+      "peak_dbfs": -14.2676,
+      "rms_dbfs": -19.1208
+    },
+    {
+      "kind": "audio",
+      "file": "06-Morph-continuo.wav",
+      "peak_dbfs": -6.9046,
+      "rms_dbfs": -16.8695
+    },
+    {
+      "kind": "audio",
+      "file": "07-Reed-dinamica-RR.wav",
+      "peak_dbfs": -5.2705,
+      "rms_dbfs": -21.6983
+    },
+    {
+      "kind": "audio",
+      "file": "08-Brass-dinamica-RR.wav",
+      "peak_dbfs": -4.0592,
+      "rms_dbfs": -21.1556
+    },
+    {
+      "kind": "benchmark",
+      "morph": 0.0,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.1725,
+      "elapsed_realtime_percent": 0.8084
+    },
+    {
+      "kind": "benchmark",
+      "morph": 12.5,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.1834,
+      "elapsed_realtime_percent": 0.8597
+    },
+    {
+      "kind": "benchmark",
+      "morph": 25.0,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.1269,
+      "elapsed_realtime_percent": 0.5948
+    },
+    {
+      "kind": "benchmark",
+      "morph": 37.5,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.1572,
+      "elapsed_realtime_percent": 0.7367
+    },
+    {
+      "kind": "benchmark",
+      "morph": 50.0,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.1207,
+      "elapsed_realtime_percent": 0.5657
+    },
+    {
+      "kind": "benchmark",
+      "morph": 62.5,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.1849,
+      "elapsed_realtime_percent": 0.8666
+    },
+    {
+      "kind": "benchmark",
+      "morph": 75.0,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.2241,
+      "elapsed_realtime_percent": 1.0503
+    },
+    {
+      "kind": "benchmark",
+      "morph": 87.5,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.1629,
+      "elapsed_realtime_percent": 0.7637
+    },
+    {
+      "kind": "benchmark",
+      "morph": 100.0,
+      "audio_seconds": 21.3333,
+      "elapsed_seconds": 0.1367,
+      "elapsed_realtime_percent": 0.6409
+    }
+  ],
+  "sourceHashes": {
+    "Source/LeadEngine.h": "55218a99e485d3cf5035cad281d74362975cff4ac221dd16777f070ef528ed5b",
+    "Source/PluginProcessor.cpp": "f8eb35baae0d503d6bcb2c8929ad22fbb00fe0f8e04ed151c1e5dbec5523d0d4",
+    "Samples/manifest.json": "f9fd5bc37d14d694feea74ff88cfa35d7e61b403e1485a655e09b6052d58da01"
+  }
+}

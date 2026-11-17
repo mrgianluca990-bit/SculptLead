@@ -1,0 +1,30 @@
+Sculpt Lead acoustic factory bank
+
+Source library: VS Chamber Orchestra: Community Edition (VSCO 2 CE)
+Source repository: https://github.com/sgossner/VSCO-2-CE
+Official website: https://versilian-studios.com/vsco-community/
+Pinned WAV commit: 440300901dfe9275fd84e0b7763af1f8443ae62e
+SFZ mapping release: 1.1.0
+
+Recordings by Sam Gossner / Versilian Studios and Simon Dalzell / Ivy Audio.
+Original sample cutting by Elan Hickler / Soundemote.
+
+The original recordings are available under CC0 1.0 Universal.
+The complete original license is included as LICENSE in this directory.
+Original upstream README.md, Readme.txt and eight SFZ maps are preserved.
+
+Sculpt Lead adaptation:
+- Clarinet and non-vibrato flute for Reed.
+- Tenor trombone and open trumpet for Brass.
+- Stereo-to-mono conversion, resampling, static tuning correction, acoustic
+  attack/sustain splicing, crossfade-compatible sustain loops, level matching
+  with separate dynamic levels, and deterministic PCM16 dither.
+- 202 prepared WAVs representing 103 recorded sustain pitch/dynamic sets.
+- Two recorded staccato attack variants share a sustain body where available;
+  the low flute notes MIDI 60 and 64 retain one original sustain attack.
+- No claim of two independent long-note takes or sampled interval legato.
+
+The exact sources, hashes and derivations are in tools/factory_sources.json
+and Samples/manifest.json. Documentation: docs/SAMPLES.md.
+
+This adaptation does not imply endorsement by the original library authors.
