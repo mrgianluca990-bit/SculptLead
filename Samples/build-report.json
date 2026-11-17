@@ -1,0 +1,829 @@
+{
+  "generatorVersion": "1.0.0",
+  "sets": [
+    {
+      "instrument": "clarinet",
+      "root": 50,
+      "layer": 0,
+      "loopCorrelation": 0.9747,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 50,
+      "layer": 1,
+      "loopCorrelation": 0.9805,
+      "sustainTuningCents": 2.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 50,
+      "layer": 2,
+      "loopCorrelation": 0.98,
+      "sustainTuningCents": 2.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 53,
+      "layer": 0,
+      "loopCorrelation": 0.9876,
+      "sustainTuningCents": 1.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 53,
+      "layer": 1,
+      "loopCorrelation": 0.9958,
+      "sustainTuningCents": 0.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 53,
+      "layer": 2,
+      "loopCorrelation": 0.9825,
+      "sustainTuningCents": 1.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 58,
+      "layer": 0,
+      "loopCorrelation": 0.9928,
+      "sustainTuningCents": 5.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 58,
+      "layer": 1,
+      "loopCorrelation": 0.9879,
+      "sustainTuningCents": 0.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 58,
+      "layer": 2,
+      "loopCorrelation": 0.9848,
+      "sustainTuningCents": 1.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 62,
+      "layer": 0,
+      "loopCorrelation": 0.9991,
+      "sustainTuningCents": 4.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 62,
+      "layer": 1,
+      "loopCorrelation": 0.9987,
+      "sustainTuningCents": 0.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 62,
+      "layer": 2,
+      "loopCorrelation": 0.9982,
+      "sustainTuningCents": 1.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 65,
+      "layer": 0,
+      "loopCorrelation": 0.9992,
+      "sustainTuningCents": 0.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 65,
+      "layer": 1,
+      "loopCorrelation": 0.9992,
+      "sustainTuningCents": 5.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 65,
+      "layer": 2,
+      "loopCorrelation": 0.9976,
+      "sustainTuningCents": 0.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 70,
+      "layer": 0,
+      "loopCorrelation": 0.9978,
+      "sustainTuningCents": 3.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 70,
+      "layer": 1,
+      "loopCorrelation": 0.9937,
+      "sustainTuningCents": 1.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 70,
+      "layer": 2,
+      "loopCorrelation": 0.9971,
+      "sustainTuningCents": 1.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 74,
+      "layer": 0,
+      "loopCorrelation": 0.9973,
+      "sustainTuningCents": 3.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 74,
+      "layer": 1,
+      "loopCorrelation": 0.9914,
+      "sustainTuningCents": 2.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 74,
+      "layer": 2,
+      "loopCorrelation": 0.9804,
+      "sustainTuningCents": 1.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 77,
+      "layer": 0,
+      "loopCorrelation": 0.9922,
+      "sustainTuningCents": 1.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 77,
+      "layer": 1,
+      "loopCorrelation": 0.9845,
+      "sustainTuningCents": 3.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 77,
+      "layer": 2,
+      "loopCorrelation": 0.9893,
+      "sustainTuningCents": 1.0,
+      "peakSafetyGainDb": -0.164
+    },
+    {
+      "instrument": "clarinet",
+      "root": 82,
+      "layer": 0,
+      "loopCorrelation": 0.9783,
+      "sustainTuningCents": 4.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 82,
+      "layer": 1,
+      "loopCorrelation": 0.9755,
+      "sustainTuningCents": 1.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 82,
+      "layer": 2,
+      "loopCorrelation": 0.9878,
+      "sustainTuningCents": 1.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 86,
+      "layer": 0,
+      "loopCorrelation": 0.9997,
+      "sustainTuningCents": 2.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 86,
+      "layer": 1,
+      "loopCorrelation": 0.9923,
+      "sustainTuningCents": 5.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 86,
+      "layer": 2,
+      "loopCorrelation": 0.9973,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 89,
+      "layer": 0,
+      "loopCorrelation": 0.9901,
+      "sustainTuningCents": -0.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 89,
+      "layer": 1,
+      "loopCorrelation": 0.9188,
+      "sustainTuningCents": 2.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "clarinet",
+      "root": 89,
+      "layer": 2,
+      "loopCorrelation": 0.9983,
+      "sustainTuningCents": -1.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 60,
+      "layer": 0,
+      "loopCorrelation": 0.9933,
+      "sustainTuningCents": -3.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 60,
+      "layer": 1,
+      "loopCorrelation": 0.9719,
+      "sustainTuningCents": -2.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 64,
+      "layer": 0,
+      "loopCorrelation": 0.9974,
+      "sustainTuningCents": -2.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 64,
+      "layer": 1,
+      "loopCorrelation": 0.993,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 69,
+      "layer": 0,
+      "loopCorrelation": 0.999,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 69,
+      "layer": 1,
+      "loopCorrelation": 0.9835,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 72,
+      "layer": 0,
+      "loopCorrelation": 0.9997,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 72,
+      "layer": 1,
+      "loopCorrelation": 0.9984,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 76,
+      "layer": 0,
+      "loopCorrelation": 0.9923,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 76,
+      "layer": 1,
+      "loopCorrelation": 0.9818,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 81,
+      "layer": 0,
+      "loopCorrelation": 0.9991,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 81,
+      "layer": 1,
+      "loopCorrelation": 0.9834,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 84,
+      "layer": 0,
+      "loopCorrelation": 0.9992,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 84,
+      "layer": 1,
+      "loopCorrelation": 0.999,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 88,
+      "layer": 0,
+      "loopCorrelation": 0.942,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 88,
+      "layer": 1,
+      "loopCorrelation": 0.9984,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 93,
+      "layer": 0,
+      "loopCorrelation": 0.9992,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 93,
+      "layer": 1,
+      "loopCorrelation": 0.9999,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "flute",
+      "root": 96,
+      "layer": 0,
+      "loopCorrelation": 0.9993,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 34,
+      "layer": 0,
+      "loopCorrelation": 0.9909,
+      "sustainTuningCents": -0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 34,
+      "layer": 1,
+      "loopCorrelation": 0.9681,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": -0.221
+    },
+    {
+      "instrument": "trombone",
+      "root": 37,
+      "layer": 0,
+      "loopCorrelation": 0.9956,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 37,
+      "layer": 1,
+      "loopCorrelation": 0.9946,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": -0.405
+    },
+    {
+      "instrument": "trombone",
+      "root": 39,
+      "layer": 0,
+      "loopCorrelation": 0.9938,
+      "sustainTuningCents": -0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 39,
+      "layer": 1,
+      "loopCorrelation": 0.9903,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 39,
+      "layer": 2,
+      "loopCorrelation": 0.9838,
+      "sustainTuningCents": -0.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 41,
+      "layer": 0,
+      "loopCorrelation": 0.9929,
+      "sustainTuningCents": 0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 41,
+      "layer": 1,
+      "loopCorrelation": 0.9962,
+      "sustainTuningCents": -0.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 41,
+      "layer": 2,
+      "loopCorrelation": 0.9911,
+      "sustainTuningCents": -0.25,
+      "peakSafetyGainDb": -0.53
+    },
+    {
+      "instrument": "trombone",
+      "root": 46,
+      "layer": 0,
+      "loopCorrelation": 0.9813,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 46,
+      "layer": 1,
+      "loopCorrelation": 0.9966,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": -0.38
+    },
+    {
+      "instrument": "trombone",
+      "root": 46,
+      "layer": 2,
+      "loopCorrelation": 0.9965,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": -4.812
+    },
+    {
+      "instrument": "trombone",
+      "root": 50,
+      "layer": 0,
+      "loopCorrelation": 0.9947,
+      "sustainTuningCents": 0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 50,
+      "layer": 1,
+      "loopCorrelation": 0.9965,
+      "sustainTuningCents": 0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 50,
+      "layer": 2,
+      "loopCorrelation": 0.9967,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": -2.889
+    },
+    {
+      "instrument": "trombone",
+      "root": 53,
+      "layer": 0,
+      "loopCorrelation": 0.9913,
+      "sustainTuningCents": -0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 53,
+      "layer": 1,
+      "loopCorrelation": 0.9955,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 53,
+      "layer": 2,
+      "loopCorrelation": 0.9938,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": -2.495
+    },
+    {
+      "instrument": "trombone",
+      "root": 60,
+      "layer": 0,
+      "loopCorrelation": 0.9951,
+      "sustainTuningCents": -0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 60,
+      "layer": 1,
+      "loopCorrelation": 0.9978,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 60,
+      "layer": 2,
+      "loopCorrelation": 0.9941,
+      "sustainTuningCents": -0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 61,
+      "layer": 0,
+      "loopCorrelation": 0.9982,
+      "sustainTuningCents": 0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 61,
+      "layer": 1,
+      "loopCorrelation": 0.9982,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 61,
+      "layer": 2,
+      "loopCorrelation": 0.9911,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 63,
+      "layer": 0,
+      "loopCorrelation": 0.9787,
+      "sustainTuningCents": 0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 63,
+      "layer": 1,
+      "loopCorrelation": 0.9921,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 63,
+      "layer": 2,
+      "loopCorrelation": 0.9949,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 65,
+      "layer": 0,
+      "loopCorrelation": 0.9996,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 65,
+      "layer": 1,
+      "loopCorrelation": 0.9985,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trombone",
+      "root": 65,
+      "layer": 2,
+      "loopCorrelation": 0.9972,
+      "sustainTuningCents": 0.0,
+      "peakSafetyGainDb": -4.4
+    },
+    {
+      "instrument": "trumpet",
+      "root": 53,
+      "layer": 0,
+      "loopCorrelation": 0.9879,
+      "sustainTuningCents": 1.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 53,
+      "layer": 1,
+      "loopCorrelation": 0.9454,
+      "sustainTuningCents": -2.5,
+      "peakSafetyGainDb": -1.058
+    },
+    {
+      "instrument": "trumpet",
+      "root": 57,
+      "layer": 0,
+      "loopCorrelation": 0.9929,
+      "sustainTuningCents": -3.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 57,
+      "layer": 1,
+      "loopCorrelation": 0.9934,
+      "sustainTuningCents": -3.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 60,
+      "layer": 0,
+      "loopCorrelation": 0.9926,
+      "sustainTuningCents": -1.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 60,
+      "layer": 1,
+      "loopCorrelation": 0.991,
+      "sustainTuningCents": -2.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 63,
+      "layer": 0,
+      "loopCorrelation": 0.9972,
+      "sustainTuningCents": 2.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 63,
+      "layer": 1,
+      "loopCorrelation": 0.9924,
+      "sustainTuningCents": -1.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 67,
+      "layer": 0,
+      "loopCorrelation": 0.9935,
+      "sustainTuningCents": 8.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 67,
+      "layer": 1,
+      "loopCorrelation": 0.9862,
+      "sustainTuningCents": 4.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 70,
+      "layer": 0,
+      "loopCorrelation": 0.9916,
+      "sustainTuningCents": 1.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 70,
+      "layer": 1,
+      "loopCorrelation": 0.9941,
+      "sustainTuningCents": 0.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 74,
+      "layer": 0,
+      "loopCorrelation": 0.9982,
+      "sustainTuningCents": -0.25,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 74,
+      "layer": 1,
+      "loopCorrelation": 0.9987,
+      "sustainTuningCents": 3.0,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 77,
+      "layer": 0,
+      "loopCorrelation": 0.9888,
+      "sustainTuningCents": -0.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 77,
+      "layer": 1,
+      "loopCorrelation": 0.965,
+      "sustainTuningCents": -3.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 81,
+      "layer": 0,
+      "loopCorrelation": 0.9978,
+      "sustainTuningCents": -0.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 81,
+      "layer": 1,
+      "loopCorrelation": 0.9946,
+      "sustainTuningCents": 0.5,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 84,
+      "layer": 0,
+      "loopCorrelation": 0.9952,
+      "sustainTuningCents": 1.75,
+      "peakSafetyGainDb": 0.0
+    },
+    {
+      "instrument": "trumpet",
+      "root": 84,
+      "layer": 1,
+      "loopCorrelation": 0.9933,
+      "sustainTuningCents": -3.25,
+      "peakSafetyGainDb": 0.0
+    }
+  ]
+}
